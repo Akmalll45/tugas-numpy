@@ -1,1 +1,2 @@
-# tugas-numpy
+# tugas-numpy 
+# nama : muhammad akmal
